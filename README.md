@@ -7,5 +7,5 @@
 ## 💫 About Me:
 - 👀 I’m interested in programming and Developing
 - 🔭 I’m currently working on *Competitive Programming* with *C++* language.
-- 📫 How to reach me -> Gmail : yashpatel17062007
+- 📫 How to reach me -> Gmail : yashpatel17062007@gmail.com
 - 😄 Pronouns : He/Him
